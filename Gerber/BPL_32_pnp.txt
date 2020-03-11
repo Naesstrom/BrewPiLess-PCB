@@ -1,0 +1,60 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=BPL_32
+*Date=17:27:23
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;3.79933;-21.1671;0;Bottom;DOOR
+2;;;26.1967;-25.9719;0;Bottom;30pin ESP32
+3;;THT;3.29133;-33.7401;0;Bottom;ROT1
+4;;;37.9191;-49.4676;0;Bottom;Hole3
+5;;;14.0158;-1.96871;0;Bottom;Hole2
+6;;THT;57.1393;-41.4871;0;Bottom;PRESSURE
+7;;;56.9449;-14.204;-90;Bottom;TXT2
+8;;;49.0113;-33.7401;0;Bottom;TXT2
+9;;;8.31887;-28.3779;0;Bottom;TXT2
+10;;;46.7535;-14.8312;-90;Bottom;TXT2
+11;;;8.18319;-19.4408;0;Bottom;TXT2
+12;;THT;49.0113;-45.1701;0;Bottom;I2C
+13;;;8.4654;-31.012;0;Bottom;TXT2
+14;;;8.5595;-33.4579;0;Bottom;TXT2
+15;;THT;53.3293;-31.3271;0;Bottom;OW
+16;;;1.99991;-50.0405;0;Bottom;Hole6
+17;;;52.2334;-43.712;0;Bottom;TXT2
+18;;;8.74754;-9.93934;0;Bottom;TXT2
+19;;;1.91242;-1.94979;0;Bottom;Hole8
+20;4.7k;THT;43.9313;-31.2001;-90;Bottom;R1
+21;;;13.9987;-49.4676;0;Bottom;Hole4
+22;;;44.5374;-46.346;0;Bottom;TXT2
+23;;;51.8022;-14.7998;-90;Bottom;TXT2
+24;;;53.5531;-41.3366;0;Bottom;TXT2
+25;;;49.2308;-14.7998;-90;Bottom;TXT2
+26;;;44.0254;-14.7163;-90;Bottom;TXT2
+27;;;8.93577;-21.8867;0;Bottom;TXT2
+28;;;58.4675;-6.51611;-90;Bottom;TXT2
+29;;THT;50.2813;-18.5001;90;Bottom;4CH_RELAY
+30;;;7.83537;-36.0214;0;Bottom;TXT2
+31;;;54.3108;-14.8626;-90;Bottom;TXT2
+32;;;49.0971;-31.0738;0;Bottom;TXT2
+33;;;37.9277;-1.97726;0;Bottom;Hole1
+34;;;44.0731;-4.63122;-90;Bottom;TXT2
+35;;;9.12393;-13.232;0;Bottom;TXT2
+36;;buzzer-12mm;50.9913;-7.0701;180;Bottom;BUZZ
+37;;;57.9645;-50.0754;0;Bottom;Hole5
+38;;;45.3424;-48.886;0;Bottom;TXT2
+39;;;57.9013;-1.99009;0;Bottom;Hole7
+40;;;45.6979;-41.0779;0;Bottom;TXT2
+41;;;45.8128;-43.712;0;Bottom;TXT2
+42;;;48.9172;-28.1897;0;Bottom;TXT2
+43;;;7.25229;-38.5724;0;Bottom;TXT2
+44;;THT;3.79933;-11.7971;0;Bottom;5V
+45;;;52.8448;-38.679;0;Bottom;TXT2
